@@ -1,10 +1,10 @@
 ### Hello there 👋 ✨ 
 
 <br>1.  🧑 **PERSONA**<br>
-&emsp;&emsp;&emsp;&emsp;I am DK (David Kariuki), a full stack software engineer.<br>
-&emsp;&emsp;&emsp;&emsp;**Pronoun**&emsp; : &emsp;Mr.<br>
-&emsp;&emsp;&emsp;&emsp;**Nationality**&emsp; : &emsp;🇰🇪 Kenya 🇰🇪<br>
-&emsp;&emsp;&emsp;&emsp;**Physique**    : If this is gonna make my code run, “Don’t forget you are what you eat,” said one person. “Then I should eat a skinny person.” said my sister. Does it matter? 🤣<br>
+&emsp;&emsp;&emsp;I am DK (David Kariuki), a full stack software engineer.<br>
+&emsp;&emsp;&emsp;**Pronoun**&emsp; : &emsp;Mr.<br>
+&emsp;&emsp;&emsp;**Nationality**&emsp; : &emsp;🇰🇪 Kenya 🇰🇪<br>
+&emsp;&emsp;&emsp;**Physique**    : If this is gonna make my code run, “Don’t forget you are what you eat,” said one person. “Then I should eat a skinny person.” said my sister. Does it matter? 🤣<br>
 
 <br>2.  🧑‍💼 **DEV STACK**<br>
 
