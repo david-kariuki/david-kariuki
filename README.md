@@ -16,6 +16,7 @@
              - HTML CSS. 
              - JavaScript, JQuery, ReactNative.
              - ThymeLeaf.
+             - Markdown
                
     ii.  Backend Development
              - SpringBoot, PHP.
