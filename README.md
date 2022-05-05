@@ -106,7 +106,7 @@
 <br>11.  🌐 **Stack Exchange profiles**<br>
 &emsp;&emsp;&emsp;&emsp;Stack exchange profiles overview - [User David Kariuki - Stack Exchange](https://stackexchange.com/users/7822670/david-kariuki?tab=accounts) <br><br>
 &emsp;&emsp;&emsp;&emsp;The link shows an overview to all my achievements and contributions on the stack exchange network. This includes but not limited to StackOverflow, Uiz & Linux, Information Security, ServerFault. 
-<a href="https://stackexchange.com/users/7822670"><img src="https://stackexchange.com/users/flair/7822670.png" width="208" height="58" alt="profile for David Kariuki on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for David Kariuki on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackexchange.com/users/7822670/david-kariuki?tab=accounts"><img src="https://stackexchange.com/users/flair/7822670.png" width="208" height="58" alt="profile for David Kariuki on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for David Kariuki on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 <br> 
 
