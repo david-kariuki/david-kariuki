@@ -75,18 +75,18 @@
     - Machine leraning & Artificial Intelligence.
     - IOT
 
-<br>8.  🕰️ **Part-Time Work**<br>
+<br>7.  🕰️ **Part-Time Work**<br>
 &emsp;&emsp;&emsp;I am a freelance outdoor and event photographer. My brand name is **PhotoVendor**. Reach me in almost all social media platforms ***@photovendor***
 
 
-<br>5.  🗣️ **Languages**<br>
+<br>8.  🗣️ **Languages**<br>
 
 | English | Swahili | Spanish |
 -- | -- | -- |
 | Professional | Professional | Intermediate |
 
 
-<br>6. #️⃣ **REACH ME**<br>
+<br>9. #️⃣ **REACH ME**<br>
 &emsp;&emsp;&emsp;Reach me on -> &emsp;&emsp;
 [Send me a mail](mailto:dkaris.k@gmail.com)&emsp;|&emsp;
 [LinkedIn](https://www.linkedin.com/in/davidkariuki/)&emsp;|&emsp;
@@ -95,7 +95,7 @@
 [Facebook Page](https://www.facebook.com/dk.davidkariuki)
    
 
-<br>9.  🤗😉 **Hobbies**<br>
+<br>10.  🤗😉 **Hobbies**<br>
 
     - Practicing code.
     - Trying out different linux distros and desktop environments.
