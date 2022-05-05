@@ -1,10 +1,10 @@
 ### Hello there 👋 ✨ 
 
 <br>1.  🧑 **PERSONA**<br>
-&emsp;&emsp;&emsp;&emsp;I am DK (David Kariuki), a full stack software engineer with experience in many fields in Computer Science.<br>
+&emsp;&emsp;&emsp;&emsp;I am DK (David Kariuki), a full stack software engineer.<br>
 &emsp;&emsp;&emsp;&emsp;**Pronoun**&emsp; : &emsp;Mr.<br>
 &emsp;&emsp;&emsp;&emsp;**Nationality**&emsp; : &emsp;🇰🇪 Kenya 🇰🇪<br>
-**Physique**    : If this is gonna make my code run, “Don’t forget you are what you eat,” said one person. “Then I should eat a skinny person.” said my sister. Does it matter? 🤣<br>
+&emsp;&emsp;&emsp;&emsp;**Physique**    : If this is gonna make my code run, “Don’t forget you are what you eat,” said one person. “Then I should eat a skinny person.” said my sister. Does it matter? 🤣<br>
 
 <br>2.  🧑‍💼 **DEV STACK**<br>
 
@@ -74,7 +74,7 @@
 
 
 <br>6. #️⃣ SOCIAL MEDIA<br>
-&emsp;&emsp;&emsp;&emsp;Find me on social media through the following links.&emsp;&emsp;
+&emsp;&emsp;&emsp;Find me on -> &emsp;&emsp;
 [LinkedIn](https://www.linkedin.com/in/davidkariuki/)&emsp;|&emsp;
 [Instagram](https://www.instagram.com/david_kariuki)&emsp;|&emsp;
 [Twitter](https://www.twitter.com/davidkariuki_)&emsp;|&emsp;
@@ -82,7 +82,7 @@
    
    
 <br>8.  🕰️ **Part-Time Work**<br>
-&emsp;&emsp;&emsp;&emsp;I am a freelance outdoor and event photographer. My brand name is **PhotoVendor**. Reach me in almost all social media platforms ***@photovendor***
+&emsp;&emsp;&emsp;I am a freelance outdoor and event photographer. My brand name is **PhotoVendor**. Reach me in almost all social media platforms ***@photovendor***
 
 
 <br>9.  🤗😉 **Hobbies**<br>
@@ -100,8 +100,5 @@
 &emsp;&emsp;&emsp;&emsp;The link shows an overview to all my achievements and contributions on the stack exchange network. This includes but not limited to StackOverflow, Uiz & Linux, Information Security, ServerFault. 
 
 <br>    
-Wow! I tried to remember
-
-
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=david-kariuki&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=david-kariuki&langs_count=5&theme=tokyonight)]()
