@@ -100,6 +100,7 @@
 &emsp;&emsp;&emsp;&emsp;Stack exchange profiles overview - [User David Kariuki - Stack Exchange](https://stackexchange.com/users/7822670/david-kariuki?tab=accounts) <br><br>
 &emsp;&emsp;&emsp;&emsp;The link shows an overview to all my achievements and contributions on the stack exchange network. This includes but not limited to StackOverflow, Uiz & Linux, Information Security, ServerFault. 
 
-<br>    
+<br>   
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=david-kariuki&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=david-kariuki&langs_count=5&theme=tokyonight)]()
