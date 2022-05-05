@@ -1,5 +1,5 @@
 ### Hello there 👋 ✨ 
-![](https://komarev.com/ghpvc/?username=david-kariuki)
+![](https://komarev.com/ghpvc/?username=david-kariuki&color=red)
 
 <br>1.  🧑 **PERSONA**<br>
 &emsp;&emsp;&emsp;I am DK (David Kariuki), a full stack software engineer (Make walking code jump.)<br>
