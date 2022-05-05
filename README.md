@@ -1,8 +1,9 @@
 ### Hello there 👋 ✨ 
 
 <br>1.  🧑 **PERSONA**<br>
-&emsp;&emsp;&emsp;I am DK (David Kariuki), a full stack software engineer with experience in many fields in Computer Science.
-<br>**Pronoun** : Mr.
+&emsp;&emsp;&emsp;&emsp;I am DK (David Kariuki), a full stack software engineer with experience in many fields in Computer Science.
+<br>**Pronoun**     : Mr.
+<br>**Physique**    : If this is gonna make my code run, “Don’t forget you are what you eat,” said one person. “Then I should eat a skinny person.” said my sister. Does it matter? 🤣
 
 <br>2.  🧑‍💼 **DEV STACK**<br>
 
@@ -46,7 +47,7 @@
         
 
 <br>4.  📫 REACH ME <br>
-&emsp;&emsp;Email address - dkaris.k@gmail.com
+&emsp;&emsp;&emsp;Email address - dkaris.k@gmail.com
 
 
 <br>5.  💬 **ASK ME ABOUT**<br>
@@ -72,7 +73,7 @@
 
 
 <br>6. #️⃣ SOCIAL MEDIA<br>
-&emsp;&emsp;&emsp;Find me on social media through the following links.<br>
+&emsp;&emsp;&emsp;&emsp;Find me on social media through the following links.<br>
 &emsp;&emsp;&emsp;&emsp;- LinkedIn      : *davidkariuki*       - https://www.linkedin.com/in/davidkariuki/ <br>
 &emsp;&emsp;&emsp;&emsp;- Instagram     : *@david_kariuki*     - https://www.instagram.com/david_kariuki <br>
 &emsp;&emsp;&emsp;&emsp;- Twitter       : *@davidkariuki_*     - https://www.twitter.com/davidkariuki_ <br>
@@ -83,7 +84,7 @@
 &emsp;&emsp;&emsp;&emsp;I am a freelance outdoor and event photographer. My brand name is **PhotoVendor**. Reach me in almost all social media platforms ***@photovendor***
 
 
-<br>9.  🤗 **Hobies**<br>
+<br>9.  🤗😉 **Hobbies**<br>
 
     - Practicing code.
     - Trying out different linux distros and desktop environments.
@@ -98,3 +99,4 @@
 The link shows an overview to all my achievements and contributions on the stack exchange network. This includes but not limited to StackOverflow, Uiz & Linux, Information Security, ServerFault. 
 
 <br>    
+I tried to remember
