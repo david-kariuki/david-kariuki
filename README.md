@@ -3,10 +3,10 @@
 <br>1.  🧑 **PERSONA**<br>
 &emsp;&emsp;&emsp;I am DK (David Kariuki), a full stack software engineer.<br>
 &emsp;&emsp;&emsp;**Pronoun**&emsp; : &emsp;Mr.<br>
-&emsp;&emsp;&emsp;**Nationality**&emsp; : &emsp;🇰🇪 Kenya 🇰🇪<br>
-&emsp;&emsp;&emsp;**Physique**    : If this is gonna make my code run, “Don’t forget you are what you eat,” said one person. “Then I should eat a skinny person.” said my sister. Does it matter? 🤣<br>
+&emsp;&emsp;&emsp;**Nationality**&emsp; : &emsp;Kenya 🇰🇪<br>
+&emsp;&emsp;&emsp;**Physique**&emsp; : &emsp;If this is gonna make my code run, “Don’t forget you are what you eat,” said one person. “Then I should eat a skinny person.” said my sister. Does it matter? 🤣<br>
 
-<br>2.  🧑‍💼 **DEV STACK**<br>
+<br>2.  🧑‍💼 **DEVELOPMENT STACK**<br>
 
     i.   Mobile application development
              - Android - Java (Also Learning Kotlin)
@@ -29,7 +29,7 @@
     iv. UX/UI Design
              - Adobe XD, Figma.
 
-<br>3.  🖥️💼 **WORK ENVIRONMENT**<br>
+<br>3.  🖥️💼 **WORKING ENVIRONMENT**<br>
 
     i.  Tools of work
             - IDE's - Intellij, VSCode
@@ -47,7 +47,7 @@
              - VMWARE
         
 
-<br>4.  📫 REACH ME <br>
+<br>4.  📫 **REACH ME** <br>
 &emsp;&emsp;&emsp;Email address - dkaris.k@gmail.com
 
 
@@ -73,7 +73,7 @@
     - Spanish - Intermediate
 
 
-<br>6. #️⃣ SOCIAL MEDIA<br>
+<br>6. #️⃣ **SOCIAL MEDIA**<br>
 &emsp;&emsp;&emsp;Find me on -> &emsp;&emsp;
 [LinkedIn](https://www.linkedin.com/in/davidkariuki/)&emsp;|&emsp;
 [Instagram](https://www.instagram.com/david_kariuki)&emsp;|&emsp;
