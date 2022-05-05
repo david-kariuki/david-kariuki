@@ -48,8 +48,7 @@
              - VMWARE
         
 
-<br>4.  📫 **REACH ME** <br>
-&emsp;&emsp;&emsp;Email address - dkaris.k@gmail.com
+<br>4.  📫 **REACH ME** &emsp;[Send me a mail](mailto:dkaris.k@gmail.com)
 
 
 <br>5.  💬 **ASK ME ABOUT**<br>
@@ -69,9 +68,9 @@
 
 <br>5.  🗣️ **Languages**<br>
 
-    - English - Professional
-    - Swahili - Professional
-    - Spanish - Intermediate
+|English|Swahili|Spanish
+-- | -- | -- |
+|Professional|Professional|Intermediate|
 
 
 <br>6. #️⃣ **SOCIAL MEDIA**<br>
