@@ -46,7 +46,7 @@
         
 
 <br>4.  📫 REACH ME <br>
-&emsp;&emsp;&emsp;Email address - dkaris.k@gmail.com
+&emsp;&emsp;Email address - dkaris.k@gmail.com
 
 
 <br>5.  💬 **ASK ME ABOUT**<br>
@@ -72,29 +72,29 @@
 
 
 <br>6. #️⃣ SOCIAL MEDIA<br>
-    - LinkedIn      : davidkariuki       - https://www.linkedin.com/in/davidkariuki/ <br>
-    - Instagram     : @david_kariuki     - https://www.instagram.com/david_kariuki <br>
-    - Twitter       : @davidkariuki_     - https://www.twitter.com/davidkariuki_ <br>
-    - Facebook Page : @dk.davidkariuki   - https://www.facebook.com/dk.davidkariuki  <br>
+&emsp;&emsp;&emsp;Find me on social media through the following links.<br>
+&emsp;&emsp;&emsp;&emsp;- LinkedIn      : *davidkariuki*       - https://www.linkedin.com/in/davidkariuki/ <br>
+&emsp;&emsp;&emsp;&emsp;- Instagram     : *@david_kariuki*     - https://www.instagram.com/david_kariuki <br>
+&emsp;&emsp;&emsp;&emsp;- Twitter       : *@davidkariuki_*     - https://www.twitter.com/davidkariuki_ <br>
+&emsp;&emsp;&emsp;&emsp;- Facebook Page : *@dk.davidkariuki*   - https://www.facebook.com/dk.davidkariuki  <br>
    
    
-
-    
-<br>8.  **Part-Time Work**<br>
-I am a freelance outdoor and event photographer. My brand name is **PhotoVendor**. Reach me in almost all social media platforms ***@photovendor***
+<br>8.  🕰️ **Part-Time Work**<br>
+&emsp;&emsp;&emsp;&emsp;I am a freelance outdoor and event photographer. My brand name is **PhotoVendor**. Reach me in almost all social media platforms ***@photovendor***
 
 
-<br>9.  **Hobies**<br>
+<br>9.  🤗 **Hobies**<br>
 
     - Practicing code.
     - Trying out different linux distros and desktop environments.
     - Photography - @photovendor
+    - Music, Taking alone walks, Looking at rain
     
     
 
 
-<br>11.  **Stack Exchange profiles**<br>
-Stack exchange profiles overview - https://stackexchange.com/users/7822670/david-kariuki?tab=accounts <br><br>
+<br>11.  🌐 **Stack Exchange profiles**<br>
+&emsp;&emsp;&emsp;&emsp;Stack exchange profiles overview - https://stackexchange.com/users/7822670/david-kariuki?tab=accounts <br><br>
 The link shows an overview to all my achievements and contributions on the stack exchange network. This includes but not limited to StackOverflow, Uiz & Linux, Information Security, ServerFault. 
 
 <br>    
