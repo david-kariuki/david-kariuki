@@ -1,7 +1,7 @@
 ### Hello there 👋 ✨ 
 
 <br>1.  🧑 **PERSONA**<br>
-I am DK (David Kariuki), a full stack software engineer with experience in many fields in Computer Science.
+&emsp;&emsp;&emsp;I am DK (David Kariuki), a full stack software engineer with experience in many fields in Computer Science.
 <br>**Pronoun** : Mr.
 
 <br>2.  🧑‍💼 **DEV STACK**<br>
@@ -46,10 +46,26 @@ I am DK (David Kariuki), a full stack software engineer with experience in many 
         
 
 <br>4.  📫 REACH ME <br>
-    - dkaris.k@gmail.com
+&emsp;&emsp;&emsp;Email address - dkaris.k@gmail.com
 
 
-<br>5.  Languages 🗣️<br>
+<br>5.  💬 **ASK ME ABOUT**<br>
+
+    - Programming in Java, JavaScript, Bash, ThymeLeaf, SpringBoot, Hibernate.
+    - Databases - MySql, Postgres.
+    - Mobile apps development - Android java, ReactNative.
+    - Operating systems, Windows & Linux.
+    
+
+<br>6.  ⌚ **FUTURE VENTURES**<br>
+    
+    - Cloud Architecture
+    - Machine leraning & Artificial Intelligence.
+    - IOT
+
+
+<br>5.  🗣️ **Languages**<br>
+
     - English - Professional
     - Swahili - Professional
     - Spanish - Intermediate
@@ -62,29 +78,19 @@ I am DK (David Kariuki), a full stack software engineer with experience in many 
     - Facebook Page : @dk.davidkariuki   - https://www.facebook.com/dk.davidkariuki  <br>
    
    
-<br>7.  💬 ASK ME ABOUT
-    - Programming in Java, JavaScript, Bash, ThymeLeaf, SpringBoot, Hibernate.
-    - Databases - MySql, Postgres.
-    - Mobile apps development - Android java, ReactNative.
-    - Operating systems, Windows & Linux.
+
     
-    
-<br>8.  Part-Time Work
+<br>8.  **Part-Time Work**<br>
 I am a freelance outdoor and event photographer. My brand name is **PhotoVendor**. Reach me in almost all social media platforms ***@photovendor***
 
 
-<br>9.  **Hobies**
+<br>9.  **Hobies**<br>
 
     - Practicing code.
     - Trying out different linux distros and desktop environments.
     - Photography - @photovendor
     
     
-<br>10. **FUTURE VENTURES**
-    
-    - Cloud Architecture
-    - Machine leraning & Artificial Intelligence.
-    - IOT
 
 
 <br>11.  **Stack Exchange profiles**<br>
