@@ -93,6 +93,9 @@
 [Send me a mail](mailto:dkaris.k@gmail.com)&emsp;|&emsp;
 [LinkedIn](https://www.linkedin.com/in/davidkariuki/)&emsp;|&emsp;
 [Instagram](https://www.instagram.com/david_kariuki)&emsp;|&emsp;
+
+[![Twitter](https://img.shields.io/twitter/follow/davidkariuki_.svg?style=social&label=@davidkariuki_)](https://twitter.com/davidkariuki_)
+
 [Twitter](https://www.twitter.com/davidkariuki_)&emsp;|&emsp;
 [Facebook Page](https://www.facebook.com/dk.davidkariuki)
    
