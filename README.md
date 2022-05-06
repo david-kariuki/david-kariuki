@@ -1,4 +1,6 @@
-[![Names](https://img.shields.io/badge/DAVID-KARIUKi-<COLOR>.svg)](https://shields.io/) &nbsp; ![](https://komarev.com/ghpvc/?username=david-kariuki&color=red)
+[![Names](https://img.shields.io/badge/DAVID-KARIUKi-<COLOR>.svg)](https://shields.io/) &nbsp; 
+![](https://img.shields.io/github/followers/david-kariuki) &nbsp;
+![](https://komarev.com/ghpvc/?username=david-kariuki&color=red) &nbsp; 
 
 ### Hello there 👋 ✨ 
 
@@ -92,26 +94,25 @@
 
 
 <br>9. #️⃣ **REACH ME**<br>
-&emsp;&emsp;&emsp;Reach me on -> &emsp;&emsp;&emsp;
-[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dkaris.k@gmail.com)](mailto:dkaris.k@gmail.com) &emsp;&emsp;[![Linkedin Badge](https://img.shields.io/badge/-@Davidkariuki-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidkariuki/)](https://www.linkedin.com/in/davidkariuki/)&emsp;&emsp;[![Twitter](https://img.shields.io/twitter/follow/davidkariuki_.svg?style=social&label=@davidkariuki_)](https://twitter.com/davidkariuki_) &emsp;&emsp;[![Instagram - @davi_kariuki](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/david_kariuki)&emsp;&emsp;[![Facebook - David Kariuki](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dk.davidkariuki)&emsp;&emsp;
+&emsp;&emsp;&emsp;Reach me on -> &emsp;&emsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkaris.k@gmail.com) &emsp;&emsp;[![LinkedIn - David kariuki](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidkariuki)&emsp;&emsp;
+[![Twitter - @davidkariuki_](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davidkariuki_)&emsp;&emsp;[![Instagram - @davi_kariuki](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/david_kariuki)&emsp;&emsp;[![Facebook - David Kariuki](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dk.davidkariuki)&emsp;&emsp;
 
 
+<br>10.  🌐 **Stack Exchange profiles** (Achievements and Contributions)<br><br>
+&emsp;&emsp;&emsp;&emsp;Click the widget below for more<br>
+&emsp;&emsp;&emsp;&emsp;<a href="https://stackexchange.com/users/7822670/david-kariuki?tab=accounts"><img src="https://stackexchange.com/users/flair/7822670.png" width="208" height="58" alt="profile for David Kariuki on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for David Kariuki on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a><br><br>
+&emsp;&emsp;&emsp;&emsp;The link shows an overview to all my achievements and contributions on the stack exchange network. This includes but not limited to StackOverflow, Uiz & Linux, Information Security, ServerFault. 
 
 
-<br>10.  🤗😉 **Hobbies**<br>
+<br>11.  🤗😉 **Hobbies**<br>
 
     - Practicing code.
     - Trying out different linux distros and desktop environments.
     - Photography - @photovendor
     - Music, Taking alone walks, Looking at rain
     
-
-<br>11.  🌐 **Stack Exchange profiles** (Achievements and Contributions)<br><br>
-&emsp;&emsp;&emsp;&emsp;Click the widget below for more<br>
-&emsp;&emsp;&emsp;&emsp;<a href="https://stackexchange.com/users/7822670/david-kariuki?tab=accounts"><img src="https://stackexchange.com/users/flair/7822670.png" width="208" height="58" alt="profile for David Kariuki on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for David Kariuki on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a><br><br>
-&emsp;&emsp;&emsp;&emsp;The link shows an overview to all my achievements and contributions on the stack exchange network. This includes but not limited to StackOverflow, Uiz & Linux, Information Security, ServerFault. 
-
-
+    
 <br> 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=david-kariuki&count_private=true&theme=tokyonight&showicons=true)]()
