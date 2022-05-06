@@ -54,7 +54,7 @@
              - VMWARE
 
 
-<br><br>4.  💬 **Open Source**<br>
+<br><br>4.  💬 **OPEN SOURCE**<br>
 | # | REPOSITORY | PLATFORM | DESCRIPTION | LANGUAGE | STARS
 -- | -- | -- | -- | -- | -- |
 | 1 | [DuesClerk](https://github.com/david-kariuki/DuesClerk) | ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | Application to manage dues for personal and business use. | ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![](https://img.shields.io/github/stars/david-kariuki/DuesClerk)
@@ -94,7 +94,7 @@
     - Machine leraning & Artificial Intelligence.
     - IOT
 
-<br><br>7.  🕰️ **Part-Time Work**<br>
+<br><br>7.  🕰️ **PART-TIME WORK**<br>
 &emsp;&emsp;&emsp;I am a freelance outdoor and event photographer. My brand name is **PhotoVendor**. Reach me in almost all social media platforms ***@photovendor***
 
 
@@ -112,15 +112,15 @@
 [![Twitter - @davidkariuki_](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davidkariuki_)&emsp;&emsp;[![Instagram - @davi_kariuki](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/david_kariuki)&emsp;&emsp;[![Facebook - David Kariuki](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dk.davidkariuki)&emsp;&emsp;
 
 
-<br><br>10.  🌐 **Stack Exchange profiles** (Achievements and Contributions)<br><br>
+<br><br>10.  🌐 **STACK EXCHANGE PROFILES** (Achievements and Contributions)<br><br>
 &emsp;&emsp;&emsp;&emsp;Click the widget below for more<br>
 &emsp;&emsp;&emsp;&emsp;<a href="https://stackexchange.com/users/7822670/david-kariuki?tab=accounts"><img src="https://stackexchange.com/users/flair/7822670.png" width="208" height="58" alt="profile for David Kariuki on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for David Kariuki on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a><br><br>
 &emsp;&emsp;&emsp;&emsp;The link shows an overview to all my achievements and contributions on the stack exchange network. This includes but not limited to StackOverflow, Uiz & Linux, Information Security, ServerFault. 
 
 
-<br><br>11.  🤗😉 **Hobbies**<br>
+<br><br>11.  🤗😉 **HOBBIES**<br>
 
-    - Practicing code.
+    - Code.
     - Trying out different linux distros and desktop environments.
     - Photography - @photovendor
     - Music, Taking alone walks, Looking at rain
