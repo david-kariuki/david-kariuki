@@ -91,12 +91,14 @@
 
 <br>9. #️⃣ **REACH ME**<br>
 &emsp;&emsp;&emsp;Reach me on -> &emsp;&emsp;
-[Send me a mail](mailto:dkaris.k@gmail.com)&emsp;|&emsp;
-[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dkaris.k@gmail.com)](mailto:dkaris.k@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dkaris.k@gmail.com)](mailto:dkaris.k@gmail.com) &emsp;|&emsp;
+
 [![Linkedin Badge](https://img.shields.io/badge/-@Davidkariuki-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidkariuki/)](https://www.linkedin.com/in/davidkariuki/)&emsp;|&emsp;
-[Instagram](https://www.instagram.com/david_kariuki)&emsp;|&emsp;
 
 [![Twitter](https://img.shields.io/twitter/follow/davidkariuki_.svg?style=social&label=@davidkariuki_)](https://twitter.com/davidkariuki_) &emsp;|&emsp;
+
+[Instagram](https://www.instagram.com/david_kariuki)&emsp;|&emsp;
+
 [Facebook Page](https://www.facebook.com/dk.davidkariuki)
    
 
