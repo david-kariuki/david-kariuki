@@ -1,6 +1,8 @@
+[![Names](https://img.shields.io/badge/DAVID-KARIUKi-<COLOR>.svg)](https://shields.io/) &nbsp; ![](https://komarev.com/ghpvc/?username=david-kariuki&color=red)
+
 ### Hello there 👋 ✨ 
 
-![](https://komarev.com/ghpvc/?username=david-kariuki&color=red)
+
 
 <br>1.  🧑 **PERSONA**<br>
 &emsp;&emsp;&emsp;I am DK (David Kariuki), a full stack software engineer (Make walking code jump.)<br>
