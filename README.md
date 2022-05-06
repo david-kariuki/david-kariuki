@@ -5,14 +5,14 @@
 
 
 
-<br>1.  🧑 **PERSONA**<br>
+<br><br>1.  🧑 **PERSONA**<br>
 &emsp;&emsp;&emsp;I am DK (David Kariuki), a full stack software engineer (Make walking code jump.)<br>
 
 &emsp;&emsp;&emsp;**Pronoun**&emsp;&emsp;: Mr.<br>
 &emsp;&emsp;&emsp;**Nationality**&nbsp;&nbsp;&nbsp;: Kenya 🇰🇪<br>
 &emsp;&emsp;&emsp;**Physique**&emsp;&nbsp;&nbsp;&nbsp;: “Don’t forget you are what you eat,” said one person. “Then I should eat a skinny person.” said my sister.<br>
 
-<br>2.  🧑‍💼 **DEVELOPMENT STACK**<br>
+<br><br>2.  🧑‍💼 **DEVELOPMENT STACK**<br>
 
     i.   Mobile application development
              - Android - Java (Also Learning Kotlin)
@@ -36,7 +36,7 @@
     iv. UX/UI Design
              - Adobe XD, Figma.
 
-<br>3.  🖥️💼 **WORKING ENVIRONMENT**<br>
+<br><br>3.  🖥️💼 **WORKING ENVIRONMENT**<br>
 
     i.  Tools of work
             - IDE's - Intellij, VSCode
@@ -54,7 +54,7 @@
              - VMWARE
 
 
-<br>4.  💬 **Open Source**<br>
+<br><br>4.  💬 **Open Source**<br>
 | # | REPOSITORY | PLATFORM | DESCRIPTION | LANGUAGE | STARS
 -- | -- | -- | -- | -- | -- |
 | 1 | [DuesClerk](https://github.com/david-kariuki/DuesClerk) | ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | Application to manage dues for personal and business use. | ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![](https://img.shields.io/github/stars/david-kariuki/DuesClerk)
@@ -66,9 +66,7 @@
 |  | |  |  |  | |
 
 
-
-<br>5.  💬 **ASK ME ABOUT**<br>
-
+<br><br>5.  💬 **ASK ME ABOUT**<br>
 |1|Programming/Scripting/Markup Languages|![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)|![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)|![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)|![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu%20bash&logoColor=white)|![Shell Scripting](https://img.shields.io/badge/-Shell%20scripting-green?style=for-the-badge)
 |-|-|-|-|-|-|-|
 |||![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)|![CSS#](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)||||
@@ -90,18 +88,17 @@
 |||![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)|![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)||||
     
 
-<br>6.  ⌚ **FUTURE VENTURES**<br>
+<br><br>6.  ⌚ **FUTURE VENTURES**<br>
     
     - Cloud Architecture
     - Machine leraning & Artificial Intelligence.
     - IOT
 
-<br>7.  🕰️ **Part-Time Work**<br>
+<br><br>7.  🕰️ **Part-Time Work**<br>
 &emsp;&emsp;&emsp;I am a freelance outdoor and event photographer. My brand name is **PhotoVendor**. Reach me in almost all social media platforms ***@photovendor***
 
 
-<br>8.  🗣️ **LANGUAGES**<br>
-
+<br><br>8.  🗣️ **LANGUAGES**<br>
 |LANGUAGE|LEVEL|LINK|
 |-|-|-|
 | English | Professional | N/A |
@@ -109,19 +106,19 @@
 ||||
 
 
-<br>9. #️⃣ **REACH ME**<br>
+<br><br>9. #️⃣ **REACH ME**<br>
 &emsp;&emsp;&emsp;Reach me on -> &emsp;&emsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkaris.k@gmail.com) &emsp;&emsp;[![LinkedIn - David kariuki](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidkariuki)&emsp;&emsp;
 [![Twitter - @davidkariuki_](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davidkariuki_)&emsp;&emsp;[![Instagram - @davi_kariuki](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/david_kariuki)&emsp;&emsp;[![Facebook - David Kariuki](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dk.davidkariuki)&emsp;&emsp;
 
 
-<br>10.  🌐 **Stack Exchange profiles** (Achievements and Contributions)<br><br>
+<br><br>10.  🌐 **Stack Exchange profiles** (Achievements and Contributions)<br><br>
 &emsp;&emsp;&emsp;&emsp;Click the widget below for more<br>
 &emsp;&emsp;&emsp;&emsp;<a href="https://stackexchange.com/users/7822670/david-kariuki?tab=accounts"><img src="https://stackexchange.com/users/flair/7822670.png" width="208" height="58" alt="profile for David Kariuki on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for David Kariuki on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a><br><br>
 &emsp;&emsp;&emsp;&emsp;The link shows an overview to all my achievements and contributions on the stack exchange network. This includes but not limited to StackOverflow, Uiz & Linux, Information Security, ServerFault. 
 
 
-<br>11.  🤗😉 **Hobbies**<br>
+<br><br>11.  🤗😉 **Hobbies**<br>
 
     - Practicing code.
     - Trying out different linux distros and desktop environments.
