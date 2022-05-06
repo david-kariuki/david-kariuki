@@ -1,6 +1,5 @@
-[![Names](https://img.shields.io/badge/DAVID-KARIUKi-<COLOR>.svg)](https://shields.io/) &nbsp; 
-![](https://img.shields.io/github/followers/david-kariuki) &nbsp;
-![](https://komarev.com/ghpvc/?username=david-kariuki&color=red) &nbsp; 
+| [![Names](https://img.shields.io/badge/DAVID-KARIUKi-<COLOR>.svg)](https://shields.io/) | ![](https://komarev.com/ghpvc/?username=david-kariuki&color=red) | ![](https://img.shields.io/github/followers/david-kariuki) | ![](https://img.shields.io/github/stars/david-kariuki?label=Profile%20Stars&logo=Profile%20stars&logoColor=r) |
+--| --| --| --|
 
 ### Hello there 👋 ✨ 
 
@@ -56,15 +55,16 @@
 
 
 <br>4.  💬 **Open Source**<br>
-| # | REPOSITORY | PLATFORM | DESCRIPTION | LANGUAGE |
--- | -- | -- | -- | -- |
-| 1 | [DuesClerk](https://github.com/david-kariuki/DuesClerk) | ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | Application to manage dues for personal and business use. | ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
-| 2 | [DuesClerk PhP](https://github.com/david-kariuki/DuesClerk-Backend) | - | Duesclerk backend | ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
-| 3 | [Android Internet Connectivity Class](https://github.com/david-kariuki/AndroidInternetConnectivity) | ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | This class checks for internet connection availability, speed and network type on your android phone. | ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
+| # | REPOSITORY | PLATFORM | DESCRIPTION | LANGUAGE | STARS
+-- | -- | -- | -- | -- | -- |
+| 1 | [DuesClerk](https://github.com/david-kariuki/DuesClerk) | ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | Application to manage dues for personal and business use. | ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![](https://img.shields.io/github/stars/david-kariuki/DuesClerk)
+| 2 | [DuesClerk PhP](https://github.com/david-kariuki/DuesClerk-Backend) | - | Duesclerk backend | ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![](https://img.shields.io/github/stars/david-kariuki/DuesClerk_PHP)
+| 3 | [Android Internet Connectivity Class](https://github.com/david-kariuki/AndroidInternetConnectivity) | ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | This class checks for internet connection availability, speed and network type on your android phone. | ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![](https://img.shields.io/github/stars/david-kariuki/
+AndroidInternetConnectivity)
 |  |  |  |  |
-| 4 | [vmware-host-modules-builder](https://github.com/david-kariuki/vmware-host-modules-builder-cli) | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) (Debian, Arch) | The script downloads, builds and installs Vmware host modules for your Linux Vmware. | Shell |
-| 5 | [desktop-environment-tool-cli]() | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) (Debian) | A cli tool that helps Debian users install/uninstall various desktop environments from a list of options. It also runs some debug codes to fix broken app installs, remove incomplete and useless application dependencies, clean app stream cache, update and upgrade software repos in your linux system.  | Shell |
-|  | |  |  |  |
+| 4 | [vmware-host-modules-builder](https://github.com/david-kariuki/vmware-host-modules-builder-cli) | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) (Debian, Arch) | The script downloads, builds and installs Vmware host modules for your Linux Vmware. | Shell | ![](https://img.shields.io/github/stars/david-kariuki/vmware-host-modules-builder)
+| 5 | [desktop-environment-tool-cli]() | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) (Debian) | A cli tool that helps Debian users install/uninstall various desktop environments from a list of options. It also runs some debug codes to fix broken app installs, remove incomplete and useless application dependencies, clean app stream cache, update and upgrade software repos in your linux system.  | Shell | ![](https://img.shields.io/github/stars/david-kariuki/desktop-environment-tool-cli)
+|  | |  |  |  | |
 
 
 
