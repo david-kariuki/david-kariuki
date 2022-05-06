@@ -61,14 +61,28 @@
 | 2 | [DuesClerk-Backend](https://github.com/david-kariuki/DuesClerk-Backend) | - | Duesclerk backend | ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![](https://img.shields.io/github/stars/david-kariuki/DuesClerk-Backend)
 | 3 | [Android Internet Connectivity Class](https://github.com/david-kariuki/AndroidInternetConnectivity) | ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | This class checks for internet connection availability, speed and network type on your android phone. | ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![](https://img.shields.io/github/stars/david-kariuki/AndroidInternetConnectivity)
 |  |  |  |  |
-| 4 | [vmware-host-modules-builder](https://github.com/david-kariuki/vmware-host-modules-builder-cli) | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) (Debian, Arch) | The script downloads, builds and installs Vmware host modules for your Linux Vmware. | Shell | ![](https://img.shields.io/github/stars/david-kariuki/vmware-host-modules-builder-cli)
-| 5 | [desktop-environment-tool-cli](https://github.com/david-kariuki/linux-desktop-environment-tool-cli) | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) (Debian) | A cli tool that helps Debian users install/uninstall various desktop environments from a list of options. It also runs some debug codes to fix broken app installs, remove incomplete and useless application dependencies, clean app stream cache, update and upgrade software repos in your linux system.  | Shell | ![](https://img.shields.io/github/stars/david-kariuki/linux-desktop-environment-tool-cli)
+| 4 | [vmware-host-modules-builder](https://github.com/david-kariuki/vmware-host-modules-builder-cli) | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) (Debian, Arch) | The script downloads, builds and installs Vmware host modules for your Linux Vmware. | ![](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu%20bash&logoColor=white) | ![](https://img.shields.io/github/stars/david-kariuki/vmware-host-modules-builder-cli)
+| 5 | [desktop-environment-tool-cli](https://github.com/david-kariuki/linux-desktop-environment-tool-cli) | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) (Debian) | A cli tool that helps Debian users install/uninstall various desktop environments from a list of options. It also runs some debug codes to fix broken app installs, remove incomplete and useless application dependencies, clean app stream cache, update and upgrade software repos in your linux system.  | ![](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu%20bash&logoColor=white) | ![](https://img.shields.io/github/stars/david-kariuki/linux-desktop-environment-tool-cli)
 |  | |  |  |  | |
 
 
 
 <br>5.  💬 **ASK ME ABOUT**<br>
 
+|
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)|![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+|
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+|
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+|
+![HTML%](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+|
+|-|-|-|-|-|
+|
+![CSS#](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|![Shell Scripting](https://img.shields.io/badge/-Shell%20scripting-green?style=for-the-badge)|![Bash](https://img.shields.io/badge/-Bash-black?style=for-the-badge)|
+
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green)
     - Programming in Java, JavaScript, Bash, ThymeLeaf, SpringBoot, Hibernate.
     - Databases - MySql, Postgres.
     - Mobile apps development - Android java, ReactNative.
