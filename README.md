@@ -54,12 +54,12 @@
 <br>4.  💬 **Open Source**<br>
 | # | REPOSITORY | PLATFORM | DESCRIPTION | LANGUAGE |
 -- | -- | -- | -- | -- |
-| 1 | [DuesClerk](https://github.com/david-kariuki/DuesClerk) | Android | Application to manage dues for personal and business use. | Java |
-| 2 | [DuesClerk PhP](https://github.com/david-kariuki/DuesClerk-Backend) | - | Duesclerk backend | PHP |
-| 3 | [Android Internet Connectivity Class](https://github.com/david-kariuki/AndroidInternetConnectivity) | - | This class checks for internet connection availability, speed and network type on your android phone. | JAVA |
+| 1 | [DuesClerk](https://github.com/david-kariuki/DuesClerk) | ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | Application to manage dues for personal and business use. | ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
+| 2 | [DuesClerk PhP](https://github.com/david-kariuki/DuesClerk-Backend) | - | Duesclerk backend | ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+| 3 | [Android Internet Connectivity Class](https://github.com/david-kariuki/AndroidInternetConnectivity) | ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | This class checks for internet connection availability, speed and network type on your android phone. | ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
 |  |  |  |  |
-| 4 | [vmware-host-modules-builder](https://github.com/david-kariuki/vmware-host-modules-builder-cli) | Linux (Debian, Arch) | The script downloads, builds and installs Vmware host modules for your Linux Vmware. | Shell |
-| 5 | [desktop-environment-tool-cli]() | Linux (Debian) | A cli tool that helps Debian users install/uninstall various desktop environments from a list of options. It also runs some debug codes to fix broken app installs, remove incomplete and useless application dependencies, clean app stream cache, update and upgrade software repos in your linux system.  | Shell |
+| 4 | [vmware-host-modules-builder](https://github.com/david-kariuki/vmware-host-modules-builder-cli) | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) (Debian, Arch) | The script downloads, builds and installs Vmware host modules for your Linux Vmware. | Shell |
+| 5 | [desktop-environment-tool-cli]() | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) (Debian) | A cli tool that helps Debian users install/uninstall various desktop environments from a list of options. It also runs some debug codes to fix broken app installs, remove incomplete and useless application dependencies, clean app stream cache, update and upgrade software repos in your linux system.  | Shell |
 |  | |  |  |  |
 
 
@@ -91,12 +91,10 @@
 
 <br>9. #️⃣ **REACH ME**<br>
 &emsp;&emsp;&emsp;Reach me on -> &emsp;&emsp;&emsp;
-[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dkaris.k@gmail.com)](mailto:dkaris.k@gmail.com) &emsp;&emsp;&emsp;[![Linkedin Badge](https://img.shields.io/badge/-@Davidkariuki-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidkariuki/)](https://www.linkedin.com/in/davidkariuki/)&emsp;&emsp;&emsp;[![Twitter](https://img.shields.io/twitter/follow/davidkariuki_.svg?style=social&label=@davidkariuki_)](https://twitter.com/davidkariuki_) &emsp;|&emsp;
+[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dkaris.k@gmail.com)](mailto:dkaris.k@gmail.com) &emsp;&emsp;[![Linkedin Badge](https://img.shields.io/badge/-@Davidkariuki-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidkariuki/)](https://www.linkedin.com/in/davidkariuki/)&emsp;&emsp;[![Twitter](https://img.shields.io/twitter/follow/davidkariuki_.svg?style=social&label=@davidkariuki_)](https://twitter.com/davidkariuki_) &emsp;&emsp;[![Instagram - @davi_kariuki](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/david_kariuki)&emsp;&emsp;[![Facebook - David Kariuki](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dk.davidkariuki)&emsp;&emsp;
 
-[Instagram](https://www.instagram.com/david_kariuki)&emsp;|&emsp;
 
-[Facebook Page](https://www.facebook.com/dk.davidkariuki)
-   
+
 
 <br>10.  🤗😉 **Hobbies**<br>
 
