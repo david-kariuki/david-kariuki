@@ -4,7 +4,6 @@
 ### Hello there 👋 ✨ 
 
 
-
 <br><br>1.  🧑 **PERSONA**<br>
 &emsp;&emsp;&emsp;I am DK (David Kariuki), a full stack software engineer (Make walking code jump.)<br>
 
@@ -12,7 +11,7 @@
 &emsp;&emsp;&emsp;**Nationality**&nbsp;&nbsp;&nbsp;: Kenya 🇰🇪<br>
 &emsp;&emsp;&emsp;**Physique**&emsp;&nbsp;&nbsp;&nbsp;: “Don’t forget you are what you eat,” said one person. “Then I should eat a skinny person.” said my sister.<br>
 
-<br><br>2.  🧑‍💼 **DEVELOPMENT STACK**<br>
+<br><br> 2.  🧑‍💼 **DEVELOPMENT STACK**<br>
 
     i.   Mobile application development
              - Android - Java (Also Learning Kotlin)
