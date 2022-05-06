@@ -7,7 +7,7 @@
 
 &emsp;&emsp;&emsp;**Pronoun**&emsp;&emsp;: Mr.<br>
 &emsp;&emsp;&emsp;**Nationality**&nbsp;&nbsp;&nbsp;: Kenya 🇰🇪<br>
-&emsp;&emsp;&emsp;**Physique**&emsp;&nbsp;&nbsp;&nbsp;: “Don’t forget you are what you eat,” said one person. “Then I should eat a skinny person.” said my sister. Does it matter? Maybe it'll make code walk 🤣<br>
+&emsp;&emsp;&emsp;**Physique**&emsp;&nbsp;&nbsp;&nbsp;: “Don’t forget you are what you eat,” said one person. “Then I should eat a skinny person.” said my sister.<br>
 
 <br>2.  🧑‍💼 **DEVELOPMENT STACK**<br>
 
