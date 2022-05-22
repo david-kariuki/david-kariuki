@@ -90,7 +90,7 @@
 <br><br>6.  ⌚ **FUTURE VENTURES**<br>
     
     - Cloud Architecture
-    - Machine leraning & Artificial Intelligence.
+    - Machine learning & Artificial Intelligence.
     - IOT
 
 <br><br>7.  🕰️ **PART-TIME WORK**<br>
