@@ -13,26 +13,26 @@
 
 <br><br> 2.  🧑‍💼 **DEVELOPMENT STACK**<br>
 
-    i.   Mobile application development
+      i. Mobile application development
              - Android - Java (Also Learning Kotlin)
              - ReactNative.
               
-    ii.   Web Development<br>
+     ii. Web Development<br>
              - HTML CSS. 
              - JavaScript, JQuery, ReactNative.
              - ThymeLeaf.
              - Markdown
                
-    ii.  Backend Development
+     ii. Backend Development
              - SpringBoot, PHP.
                
     iii. Shell Scripting
              - Bash programming.
     
-    iv.  Databases
+     iv. Databases
              - MySQL, Postgres.
              
-    iv. UX/UI Design
+      v. UX/UI Design
              - Adobe XD, Figma.
 
 <br><br>3.  🖥️💼 **WORKING ENVIRONMENT**<br>
@@ -43,14 +43,14 @@
             - Database Clients - MySQL Workbench, HeidiSQL, DBeiver (On Linux)  
     
     ii. Operating Systems
-         - Linux
-             - Arch Linux (Main)
-             - Pop OS - Media processing & editing, Gaming
-             - Kali, Fedora, Debian, Ubuntu - Testing Shell Sripts.
-         - Windows (At work)
+            - Linux
+                - Arch Linux (Main)
+                - Pop OS - Media processing & editing, Gaming
+                - Kali, Fedora, Debian, Ubuntu - Testing Shell Sripts.
+            - Windows (At work)
          
     iii. Virtualization
-             - VMWARE
+            - VMWARE
 
 
 <br><br>4.  💬 **OPEN SOURCE**<br>
