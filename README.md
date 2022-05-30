@@ -5,7 +5,7 @@
 
 
 <br><br>1.  🧑 **PERSONA**<br>
-&emsp;&emsp;&emsp;I am DK (David Kariuki), a full stack software engineer (Make walking code jump.)<br>
+&emsp;&emsp;&emsp;I am DK (David Kariuki), a full stack software engineer (I chase code.)<br>
 
 &emsp;&emsp;&emsp;**Pronoun**&emsp;&emsp;: Mr.<br>
 &emsp;&emsp;&emsp;**Nationality**&nbsp;&nbsp;&nbsp;: Kenya 🇰🇪<br>
