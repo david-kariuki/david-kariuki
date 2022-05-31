@@ -119,10 +119,10 @@
 
 <br><br>11.  🤗😉 **HOBBIES**<br>
 
-    - Code.
+    - Solving code for fun.
     - Trying out different linux distros and desktop environments.
     - Photography - @photovendor
-    - Music, Taking alone walks, Looking at rain
+    - Music, Taking lone walks, Trying out new food
     
     
 <br><br> 
