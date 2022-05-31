@@ -123,6 +123,7 @@
     - Trying out different linux distros and desktop environments.
     - Photography - @photovendor
     - Music, Taking lone walks, Trying out new food.
+    - Drawing when sad or over excited.
     
     
 <br><br> 
