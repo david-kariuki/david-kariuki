@@ -7,7 +7,7 @@
 <br><br>1.  🧑 **PERSONA**<br>
 &emsp;&emsp;&emsp;I am DK (David Kariuki), a full stack software engineer (I chase code.)<br>
 
-&emsp;&emsp;&emsp;**Pronoun**&emsp;&emsp;: Mr.<br>
+&emsp;&emsp;&emsp;**Pronoun**&emsp;&emsp;: He/Him/His<br>
 &emsp;&emsp;&emsp;**Nationality**&nbsp;&nbsp;&nbsp;: Kenya 🇰🇪<br>
 &emsp;&emsp;&emsp;**Physique**&emsp;&nbsp;&nbsp;&nbsp;: “Don’t forget you are what you eat,” said one person. “Then I should eat a skinny person.” said my sister.<br>
 
