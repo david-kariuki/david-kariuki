@@ -19,7 +19,7 @@
               
      ii. Web Development<br>
              - HTML CSS. 
-             - JavaScript, JQuery, ReactNative.
+             - JavaScript, JQuery.
              - ThymeLeaf.
              - Markdown
                
