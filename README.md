@@ -18,10 +18,8 @@
              - ReactNative.
               
      ii. Web Development<br>
-             - HTML CSS. 
-             - JavaScript, JQuery.
+             - HTML CSS, Markdown, JavaScript, JQuery.
              - ThymeLeaf.
-             - Markdown
                
      ii. Backend Development
              - SpringBoot, PHP.
@@ -34,6 +32,7 @@
              
       v. UX/UI Design
              - Adobe XD, Figma.
+             
 
 <br><br>3.  🖥️💼 **WORKING ENVIRONMENT**<br>
 
@@ -46,8 +45,8 @@
             - Linux
                 - Arch Linux (Main)
                 - Pop OS - Media processing & editing, Gaming
-                - Kali, Fedora, Debian, Ubuntu - Testing Shell Sripts.
-            - Windows (At work)
+                - Kali, Fedora, Debian OS, Ubuntu - Testing Shell Sripts.
+            - Windows - At work, and editting photos (@photovendor)
          
     iii. Virtualization
             - VMWARE
