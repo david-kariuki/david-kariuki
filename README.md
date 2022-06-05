@@ -5,9 +5,9 @@
 
 
 <br><br>1.  🧑 **PERSONA**<br>
-&emsp;&emsp;&emsp;I am DK (David Kariuki), a full stack software engineer (Make walking code jump.)<br>
+&emsp;&emsp;&emsp;I am DK (David Kariuki), a full stack software engineer (I chase code.)<br>
 
-&emsp;&emsp;&emsp;**Pronoun**&emsp;&emsp;: Mr.<br>
+&emsp;&emsp;&emsp;**Pronoun**&emsp;&emsp;: He/Him/His<br>
 &emsp;&emsp;&emsp;**Nationality**&nbsp;&nbsp;&nbsp;: Kenya 🇰🇪<br>
 &emsp;&emsp;&emsp;**Physique**&emsp;&nbsp;&nbsp;&nbsp;: “Don’t forget you are what you eat,” said one person. “Then I should eat a skinny person.” said my sister.<br>
 
@@ -18,10 +18,8 @@
              - ReactNative.
               
      ii. Web Development<br>
-             - HTML CSS. 
-             - JavaScript, JQuery, ReactNative.
+             - HTML CSS, Markdown, JavaScript, JQuery.
              - ThymeLeaf.
-             - Markdown
                
      ii. Backend Development
              - SpringBoot, PHP.
@@ -34,6 +32,7 @@
              
       v. UX/UI Design
              - Adobe XD, Figma.
+             
 
 <br><br>3.  🖥️💼 **WORKING ENVIRONMENT**<br>
 
@@ -46,8 +45,8 @@
             - Linux
                 - Arch Linux (Main)
                 - Pop OS - Media processing & editing, Gaming
-                - Kali, Fedora, Debian, Ubuntu - Testing Shell Sripts.
-            - Windows (At work)
+                - Kali, Fedora, Debian OS, Ubuntu - Testing Shell Sripts.
+            - Windows - At work, and editting photos (@photovendor)
          
     iii. Virtualization
             - VMWARE
@@ -119,10 +118,11 @@
 
 <br><br>11.  🤗😉 **HOBBIES**<br>
 
-    - Code.
+    - Solving code for fun.
     - Trying out different linux distros and desktop environments.
     - Photography - @photovendor
-    - Music, Taking alone walks, Looking at rain
+    - Music, Taking lone walks, Trying out new food.
+    - Drawing when sad or over excited.
     
     
 <br><br> 
