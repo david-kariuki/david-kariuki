@@ -7,7 +7,7 @@
 <br><br>1.  🧑 **PERSONA**<br>
 &emsp;&emsp;&emsp;I am DK (David Kariuki), a full stack software engineer (I chase code.)<br>
 
-&emsp;&emsp;&emsp;**Pronoun**&emsp;&emsp;: He/Him/His<br>
+&emsp;&emsp;&emsp;**Pronoun**&emsp;&emsp;: He/Him/His <br>
 &emsp;&emsp;&emsp;**Nationality**&nbsp;&nbsp;&nbsp;: Kenya 🇰🇪<br>
 &emsp;&emsp;&emsp;**Physique**&emsp;&nbsp;&nbsp;&nbsp;: “Don’t forget you are what you eat,” said one person. “Then I should eat a skinny person.” said my sister.<br>
 
@@ -17,7 +17,7 @@
              - Android - Java (Also Learning Kotlin)
              - ReactNative.
               
-     ii. Web Development<br>
+     ii. Web Development
              - HTML CSS, Markdown, JavaScript, JQuery.
              - ThymeLeaf.
                
@@ -37,15 +37,11 @@
 <br><br>3.  🖥️💼 **WORKING ENVIRONMENT**<br>
 
     i.  Tools of work
-            - IDE's - Intellij, VSCode
-            - Text editors - Atom
+            - IDE's, TEs - Intellij, VSCode, Atom
             - Database Clients - MySQL Workbench, HeidiSQL, DBeiver (On Linux)  
     
     ii. Operating Systems
-            - Linux
-                - Arch Linux (Main)
-                - Pop OS - Media processing & editing, Gaming
-                - Kali, Fedora, Debian OS, Ubuntu - Testing Shell Sripts.
+            - Linux - Arch Linux (Main), Pop OS (Editing, Gaming), Kali, Fedora, Debian OS, Ubuntu (Testing Shell Sripts).
             - Windows - At work, and editting photos (@photovendor)
          
     iii. Virtualization
