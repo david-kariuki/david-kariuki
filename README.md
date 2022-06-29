@@ -60,6 +60,7 @@
 |  | |  |  |  | |
 
 
+<!--
 <br><br>5.  💬 **ASK ME ABOUT**<br>
 |1|Programming/Scripting/Markup Languages|![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)|![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)|![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)|![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu%20bash&logoColor=white)|![Shell Scripting](https://img.shields.io/badge/-Shell%20scripting-green?style=for-the-badge)
 |-|-|-|-|-|-|-|
@@ -80,7 +81,7 @@
 ||||||||
 |7|Design|![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)|![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)|![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)|![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)|![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)|
 |||![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)|![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)||||
-    
+-->    
 
 <br><br>6.  ⌚ **FUTURE VENTURES**<br>
     
