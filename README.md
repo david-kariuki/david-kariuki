@@ -33,22 +33,15 @@
       v. UX/UI Design
              - Adobe XD, Figma.
              
-
-<br><br>3.  🖥️💼 **WORKING ENVIRONMENT**<br>
-
-    i.  Tools of work
-            - IDE's, TEs - Intellij, VSCode, Atom
-            - Database Clients - MySQL Workbench, HeidiSQL, DBeiver (On Linux)  
-    
-    ii. Operating Systems
-            - Linux - Arch Linux (Main), Pop OS (Editing, Gaming), Kali, Fedora, Debian OS, Ubuntu (Testing Shell Sripts).
-            - Windows - At work, and editting photos (@photovendor)
+     vi. Operating Systems
+             - Linux - Arch Linux (Main), Pop OS (Editing, Gaming), Kali, Fedora, Debian OS, Ubuntu (Testing Shell Sripts).
+             - Windows - At work, and editting photos (@photovendor)
          
-    iii. Virtualization
-            - VMWARE
+    vii. Virtualization
+             - VMWARE
+             
 
-
-<br><br>4.  💬 **OPEN SOURCE**<br>
+<br><br>3.  💬 **OPEN SOURCE**<br>
 | # | REPOSITORY | PLATFORM | DESCRIPTION | LANGUAGE | STARS
 -- | -- | -- | -- | -- | -- |
 | 1 | [DuesClerk](https://github.com/liniantt/DuesClerk) | ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | Application to manage dues for personal and business use. | ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![](https://img.shields.io/github/stars/liniantt/DuesClerk)
@@ -60,17 +53,17 @@
 |  | |  |  |  | |
    
 
-<br><br>6.  ⌚ **FUTURE VENTURES**<br>
+<br><br>4.  ⌚ **FUTURE VENTURES**<br>
     
     - Cloud Architecture
     - Machine learning & Artificial Intelligence.
     - IOT
 
-<br><br>7.  🕰️ **PART-TIME WORK**<br>
+<br><br>5.  🕰️ **PART-TIME WORK**<br>
 &emsp;&emsp;&emsp;I am a freelance outdoor and event photographer. My brand name is **PhotoVendor**. Reach me in almost all social media platforms ***@photovendor***
 
 
-<br><br>8.  🗣️ **LANGUAGES**<br>
+<br><br>6.  🗣️ **LANGUAGES**<br>
 |LANGUAGE|LEVEL|LINK|
 |-|-|-|
 | English | Professional | N/A |
@@ -78,19 +71,19 @@
 ||||
 
 
-<br><br>9. #️⃣ **REACH ME**<br>
+<br><br>7. #️⃣ **REACH ME**<br>
 &emsp;&emsp;&emsp;Reach me on -> &emsp;&emsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkaris.k@gmail.com) &emsp;&emsp;[![LinkedIn - David kariuki](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidkariuki)&emsp;&emsp;
 [![Twitter - @davidkariuki_](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davidkariuki_)&emsp;&emsp;[![Instagram - @davi_kariuki](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/david_kariuki)&emsp;&emsp;[![Facebook - David Kariuki](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dk.davidkariuki)&emsp;&emsp;
 
 
-<br><br>10.  🌐 **STACK EXCHANGE PROFILES** (Achievements and Contributions)<br><br>
+<br><br>8.  🌐 **STACK EXCHANGE PROFILES** (Achievements and Contributions)<br><br>
 &emsp;&emsp;&emsp;&emsp;Click the widget below for more<br>
 &emsp;&emsp;&emsp;&emsp;<a href="https://stackexchange.com/users/7822670/david-kariuki?tab=accounts"><img src="https://stackexchange.com/users/flair/7822670.png" width="208" height="58" alt="profile for David Kariuki on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for David Kariuki on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a><br><br>
 &emsp;&emsp;&emsp;&emsp;The link shows an overview to all my achievements and contributions on the stack exchange network. This includes but not limited to StackOverflow, Unix & Linux, Information Security, ServerFault. 
 
 
-<br><br>11.  🤗😉 **HOBBIES**<br>
+<br><br>9.  🤗😉 **HOBBIES**<br>
 
     - Solving code for fun.
     - Trying out different linux distros and desktop environments.
