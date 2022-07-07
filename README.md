@@ -67,6 +67,7 @@
 |LANGUAGE|LEVEL|LINK|
 |-|-|-|
 | English | Professional | N/A |
+| Swahili | Professional | N/A |
 | Spanish | Intermediate | [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/davidkariuki) |
 ||||
 
