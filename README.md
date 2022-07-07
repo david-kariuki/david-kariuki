@@ -19,13 +19,17 @@
      ii. Web Development:
              - HTML CSS, Markdown, JavaScript, JQuery, ThymeLeaf, React
                
-     ii. Backend Development: - SpringBoot, PHP.
+     ii. Backend Development: 
+             - SpringBoot, PHP.
                
-    iii. Shell Scripting: - Bash programming.
+    iii. Shell Scripting: 
+            - Bash programming.
     
-     iv. Databases: - MySQL, Postgres.
+     iv. Databases: 
+            - MySQL, Postgres.
              
-      v. UX/UI Design: - Adobe XD, Figma.
+      v. UX/UI Design: 
+            - Adobe XD, Figma.
              
      vi. Operating Systems
              - Linux - Arch Linux (Main), Pop OS (Editing, Gaming), Kali, Fedora, Debian OS, Ubuntu (Testing Shell Sripts).
