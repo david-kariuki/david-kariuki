@@ -70,9 +70,9 @@
 
 
 <br><br>7. #️⃣ **REACH ME**<br>
-&emsp;&emsp;&emsp;Reach me on -> &emsp;&emsp;
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkaris.k@gmail.com) &emsp;&emsp;[![LinkedIn - David kariuki](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidkariuki)&emsp;&emsp;
-[![Twitter - @davidkariuki_](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davidkariuki_)&emsp;&emsp;[![Instagram - @davi_kariuki](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/david_kariuki)&emsp;&emsp;[![Facebook - David Kariuki](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dk.davidkariuki)&emsp;&emsp;
+&emsp;&emsp;&emsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkaris.k@gmail.com) &emsp;[![LinkedIn - David kariuki](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidkariuki)&emsp;
+[![Twitter - @davidkariuki_](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davidkariuki_)&emsp;[![Instagram - @davi_kariuki](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/david_kariuki)&emsp;[![Facebook - David Kariuki](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dk.davidkariuki)&emsp;
 
 
 <br><br>8.  🌐 **STACK EXCHANGE PROFILES** (Achievements and Contributions)<br><br>
@@ -99,8 +99,7 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=david-kariuki)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://github-profile-trophy.vercel.app/?username=david-kariuki&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=david-kariuki&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
