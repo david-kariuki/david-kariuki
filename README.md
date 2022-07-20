@@ -80,19 +80,29 @@
 &emsp;&emsp;&emsp;&emsp;<a href="https://stackexchange.com/users/7822670/david-kariuki?tab=accounts"><img src="https://stackexchange.com/users/flair/7822670.png" width="208" height="58" alt="profile for David Kariuki on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for David Kariuki on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a><br><br>
 &emsp;&emsp;&emsp;&emsp;The link shows an overview to all my achievements and contributions on the stack exchange network. This includes but not limited to StackOverflow, Unix & Linux, Information Security, ServerFault. 
     
-    
 <br><br> 
 
+### ✍️ Quote (Refresh for more)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br>
+
+<!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=david-kariuki&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=david-kariuki&langs_count=5&theme=tokyonight)]()
+-->
+
+![](https://github-readme-stats.vercel.app/api?username=david-kariuki&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=david-kariuki&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=david-kariuki&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=david-kariuki)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=david-kariuki&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <br>
-
-
 
 
 ***
