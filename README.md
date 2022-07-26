@@ -1,7 +1,7 @@
 | [![David Kariuki](https://img.shields.io/badge/DAVID-KARIUKI-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=david-kariuki&color=red) | ![Followers](https://img.shields.io/github/followers/david-kariuki) | ![Stars](https://img.shields.io/github/stars/david-kariuki?label=Profile%20Stars&logo=Profile%20stars&logoColor=r) |
 --| --| --| --|
 
-### Hello, There 👋 ✨ 
+### Hello, There 👋  
 
 
 <br><br>1.  🧑 **PERSONA**<br>
@@ -38,7 +38,7 @@
     vii. Virtualization: - VMWARE
              
 
-<br><br>3.  💬 **OPEN SOURCE**<br>
+<br><br>3.  ✨ **OPEN SOURCE**<br>
 | # | REPOSITORY | PLATFORM | DESCRIPTION | LANGUAGE | STARS
 -- | -- | -- | -- | -- | -- |
 | 1 | [DuesClerk](https://github.com/liniantt/DuesClerk) | ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | Application to manage dues for personal and business use. | ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![](https://img.shields.io/github/stars/liniantt/DuesClerk)
