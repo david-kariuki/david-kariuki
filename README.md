@@ -1,4 +1,4 @@
-| [![David Kariuki](https://img.shields.io/badge/DK-DAVID%20KARIUKI-blue)](#) | ![Profile Views](https://komarev.com/ghpvc/?username=david-kariuki&color=red) | ![Followers](https://img.shields.io/github/followers/david-kariuki) | ![Stars](https://img.shields.io/github/stars/david-kariuki?label=Profile%20Stars&logo=Profile%20stars&logoColor=r) |
+| [![David Kariuki](https://img.shields.io/badge/DK-DAVID%20KARIUKI-blue)](#) | ![Profile Views](https://komarev.com/ghpvc/?username=david-kariuki&color=red)(#) | ![Followers](https://img.shields.io/github/followers/david-kariuki)(#) | ![Stars](https://img.shields.io/github/stars/david-kariuki?label=Profile%20Stars&logo=Profile%20stars&logoColor=r)(#) |
 --| --| --| --|
 
 ### Hello, There 👋  
