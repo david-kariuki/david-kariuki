@@ -92,8 +92,8 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=david-kariuki&langs_count=5&theme=tokyonight)]()
 -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=david-kariuki&theme=light&hide_border=false&include_all_commits=true&count_private=true)
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=david-kariuki&theme=light&hide_border=true&color=blue&fire=red)<br/>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=david-kariuki&theme=light&hide_border=true&include_all_commits=true&count_private=true)
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=david-kariuki&theme=light&hide_border=true&fire=red&sideNums=red)<br/>
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=david-kariuki&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
