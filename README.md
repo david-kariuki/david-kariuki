@@ -76,7 +76,7 @@
 
 <br><br>8. #️ 📖 **Articles and Posts**<br>
 &emsp;&emsp;&emsp;
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@davidkariuki) &emsp;[![Quora Badge](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/David-Kariuki-7/)
+[![Medium Articles](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@davidkariuki) &emsp;[![Quoras Contribution](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/David-Kariuki-7/) &emsp;[![Dev.to Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/david_kariuki)
 
 
 <br><br>9.  🌐 **STACK EXCHANGE PROFILES** (Achievements and Contributions)<br><br>
