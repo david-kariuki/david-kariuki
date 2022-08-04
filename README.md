@@ -74,7 +74,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkaris.k@gmail.com) &emsp;[![LinkedIn - David kariuki](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidkariuki)&emsp;
 [![Twitter - @davidkariuki_](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davidkariuki_)&emsp;[![Instagram - @davi_kariuki](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/david_kariuki)&emsp;[![Facebook - David Kariuki](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dk.davidkariuki)&emsp;
 
-<br><br>8. #️⃣ **Articles and Posts**<br>
+<br><br>8. #️ 📖 **Articles and Posts**<br>
 &emsp;&emsp;&emsp;
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@davidkariuki) &emsp;[![Quora Badge](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/David-Kariuki-7/)
 
