@@ -14,10 +14,10 @@
 <br><br> 2.  🧑‍💼 **DEVELOPMENT STACK**<br>
 
       i. Mobile application development:
-             - Android - Java (Also Learning Kotlin), ReactNative.
+             - Android - Java (Also Learning Kotlin).
               
      ii. Web Development:
-             - HTML CSS, Markdown, JavaScript, JQuery, ThymeLeaf, React
+             - HTML CSS, Markdown, JavaScript, JQuery, ThymeLeaf
                
      ii. Backend Development: 
              - SpringBoot, PHP.
