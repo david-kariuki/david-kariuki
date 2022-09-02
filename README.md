@@ -50,11 +50,11 @@
 |  | |  |  |  | |
    
 <br><br>4.  📙 **Documented Learning Projects**
-|#|PROJECT NAME|PROJECT DESCRIPTION|
-|-|-|-|
-|1.|[Ace The Java Coding Interview](https://github.com/david-kariuki/AceTheJavaCodingInterview)|Solve problems that are commonly asked in Java coding interviews related to common data structures like arrays, linked lists, strings, stacks, and queues, etc.|
-|2.|[JUnit Testing](https://github.com/david-kariuki/JUnitTestingProject)|How to write unit tests with JUnit 5|
-||||
+|#|PROJECT NAME|PROJECT DESCRIPTION| STARS |
+|-|-|-|-|
+|1.|[Ace The Java Coding Interview](https://github.com/david-kariuki/AceTheJavaCodingInterview)|Solve problems that are commonly asked in Java coding interviews related to common data structures like arrays, linked lists, strings, stacks, and queues, etc.| ![](https://img.shields.io/github/stars/david-kariuki/AceTheJavaCodingInterview)
+|2.|[JUnit Testing](https://github.com/david-kariuki/JUnitTestingProject)|How to write unit tests with JUnit 5| ![](https://img.shields.io/github/stars/david-kariuki/JUnitTestingProject)
+|||||
 
 <br><br>5.  ⌚ **FUTURE VENTURES**<br>
     
