@@ -1,8 +1,11 @@
 | [![David Kariuki](https://img.shields.io/badge/DK-DAVID%20KARIUKI-blue)](#) | [![Profile Views](https://komarev.com/ghpvc/?username=david-kariuki&color=red)](#) | [![Followers](https://img.shields.io/github/followers/david-kariuki)](#) | [![Stars](https://img.shields.io/github/stars/david-kariuki?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) |
 --| --| --| --|
 
-### Hello, There 👋  
+<br>
 
+### Hello, There 👋  <br><br>
+
+<a href='https://stars.github.com/nominate/' target="_blank"><img alt='github' src='https://img.shields.io/badge/Nominate_me For Github Stars (@david--kariuki)-100000?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff&color=E03A3A'/></a>
 
 <br><br>1.  🧑 **PERSONA**<br>
 &emsp;&emsp;&emsp;I am DK (David Kariuki), a full stack software engineer (I chase code.)<br>
