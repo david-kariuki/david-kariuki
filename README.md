@@ -3,16 +3,18 @@
 
 <br>
 
-### Hello, There 👋  <br><br>
+### Oh hi there 👋 I am DK, a software engineer and a huge fan of open source development<br><br>
+Please click the red button below to nominate me for the Github Stars programme. <br>
 
-<a href='https://stars.github.com/nominate/' target="_blank"><img alt='github' src='https://img.shields.io/badge/Nominate_me For Github Stars (@david--kariuki)-100000?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff&color=E03A3A'/></a>
+<a href='https://stars.github.com/nominate/' target="_blank"><img alt='github' src='https://img.shields.io/badge/Nominate_me --> @david--kariuki-100000?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff&color=E03A3A'/></a>
 
 <br><br>1.  🧑 **PERSONA**<br>
-&emsp;&emsp;&emsp;I am DK (David Kariuki), a full stack software engineer (I chase code.)<br>
 
-&emsp;&emsp;&emsp;**Pronoun**&emsp;&emsp;: He/Him/His <br>
-&emsp;&emsp;&emsp;**Nationality**&nbsp;&nbsp;&nbsp;: Kenya 🇰🇪<br>
-&emsp;&emsp;&emsp;**Physique**&emsp;&nbsp;&nbsp;&nbsp;: “Don’t forget you are what you eat,” said one person. “Then I should eat a skinny person.” said my sister.<br>
+&emsp;&emsp;&emsp;**Full Name**&emsp;&emsp;&nbsp;&nbsp;: David Kariuki <br>
+&emsp;&emsp;&emsp;**Specialty**&emsp;&emsp;&emsp;: Software Engineer <br>
+&emsp;&emsp;&emsp;**Pronoun**&emsp;&emsp;&emsp;&nbsp;: He/Him/His <br>
+&emsp;&emsp;&emsp;**Nationality**&emsp;&emsp;&nbsp;: Kenya 🇰🇪<br>
+&emsp;&emsp;&emsp;**Physique**&emsp;&emsp;&emsp;: “Don’t forget you are what you eat,” said one person. “Then I should eat a skinny person.” said my sister.<br>
 
 <br><br> 2.  🧑‍💼 **DEVELOPMENT STACK**<br>
 
@@ -121,6 +123,9 @@
 
 <br>
 
-<a href='https://stars.github.com/nominate/' target="_blank"><img alt='github' src='https://img.shields.io/badge/Nominate_me For Github Stars (@david--kariuki)-100000?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff&color=E03A3A'/></a>
+Please click the red button below to nominate me for the Github Stars programme. <br>
+
+<a href='https://stars.github.com/nominate/' target="_blank"><img alt='github' src='https://img.shields.io/badge/Nominate_me --> @david--kariuki-100000?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff&color=E03A3A'/></a>
+
 
 <br>
