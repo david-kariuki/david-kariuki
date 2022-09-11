@@ -109,7 +109,7 @@ Please click the red button below to nominate me for the Github Stars programme.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=david-kariuki&theme=light&hide_border=true&include_all_commits=true&count_private=true)
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=david-kariuki&theme=light&hide_border=true&fire=red&sideNums=red)<br/>
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=david-kariuki&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=david-kariuki&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&include_private=true)
 
 
 <br>
