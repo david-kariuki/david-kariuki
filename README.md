@@ -16,15 +16,13 @@
 <br><br> 2.  🧑‍💼 **DEVELOPMENT STACK**<br>
 
       i. Mobile application development: - Android - Java (Also Learning Kotlin).              
-     ii. Web Development: - HTML CSS, Markdown, JavaScript, JQuery, ThymeLeaf               
+     ii. Web Development: - HTML CSS, Markdown, JavaScript, JQuery, ThymeLeaf.               
      ii. Backend Development: - SpringBoot, PHP.               
     iii. Shell Scripting: - Bash programming.    
      iv. Databases: - MySQL, Postgres.            
       v. UX/UI Design: - Adobe XD, Figma.             
-     vi. Virtualization: - VMWARE
-     vii. Operating Systems
-             - Linux - Arch Linux (Main), Pop OS (Backup OS, Gaming), (Kali, Fedora, Debian OS, Ubuntu (Testing Shell Sripts)).
-             - Windows - At work, and editing photos (@photovendor)
+     vi. Virtualization: - VMWARE.
+     vii. Operating Systems: - Linux - Arch Linux(Mostly), Pop OS(Gaming, Backup OS), (Kali, Fedora, Debian OS, Ubuntu (Testing Shell Sripts)), Windows.
              
 
 <br><br>3.  ✨ **OPEN SOURCE**<br>
