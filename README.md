@@ -22,12 +22,9 @@
      iv. Databases: - MySQL, Postgres.            
       v. UX/UI Design: - Adobe XD, Figma.             
      vi. Virtualization: - VMWARE
-     
      vii. Operating Systems
              - Linux - Arch Linux (Main), Pop OS (Backup OS, Gaming), (Kali, Fedora, Debian OS, Ubuntu (Testing Shell Sripts)).
              - Windows - At work, and editing photos (@photovendor)
-         
-    vii. 
              
 
 <br><br>3.  ✨ **OPEN SOURCE**<br>
