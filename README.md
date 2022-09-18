@@ -1,5 +1,6 @@
-| [![David Kariuki](https://img.shields.io/badge/DK-DAVID%20KARIUKI-blue)](#) | [![Followers](https://img.shields.io/github/followers/david-kariuki)](#) | [![Stars](https://img.shields.io/github/stars/david-kariuki?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | [![Profile Views](https://komarev.com/ghpvc/?username=david-kariuki&color=red)](#) |
---| --| --| --|
+| [![David Kariuki](https://img.shields.io/badge/DK-DAVID%20KARIUKI-blue)](#) | [![Followers](https://img.shields.io/github/followers/david-kariuki)](#) | [![Stars](https://img.shields.io/github/stars/david-kariuki?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | 
+--| --| --|
+<!--[![Profile Views](https://komarev.com/ghpvc/?username=david-kariuki&color=red)](#) -->
 
 <br>
 
