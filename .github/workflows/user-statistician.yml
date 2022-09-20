@@ -1,4 +1,8 @@
 name: user-statistician
+permissions:
+  pull-requests: write
+  issues: write
+  repository-projects: write
 
 on:
   schedule:
@@ -15,4 +19,6 @@ jobs:
     - name: Generate the user stats image
       uses: cicirello/user-statistician@v1
       env:
-        GITHUB_TOKEN: ${{secrets.user-statistician }}
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
+   
