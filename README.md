@@ -92,9 +92,11 @@
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=david-kariuki&theme=light&hide_border=true&fire=red&sideNums=red)<br/>
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=david-kariuki&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&include_private=true)
 
+<!--
 <br>
 
 [![GitHub Activity](images/userstats.svg)](https://github.com/cicirello/user-statistician)
+-->
 
 <br>
 
