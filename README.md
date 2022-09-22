@@ -8,7 +8,6 @@
 
 <br><br>1.  🧑 **PERSONA**<br>
 
-&emsp;&emsp;&emsp;**Full Name**&emsp;&emsp;&nbsp;&nbsp;: David Kariuki <br>
 &emsp;&emsp;&emsp;**Nationality**&emsp;&emsp;&nbsp;: Kenya 🇰🇪<br>
 &emsp;&emsp;&emsp;**Physique**&emsp;&emsp;&emsp;: “Don’t forget you are what you eat,” said one person. “Then I should eat a skinny person.” said my sister.<br>
 
