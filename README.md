@@ -94,16 +94,12 @@
 
 <!--
 <br>
-
 [![GitHub Activity](images/userstats.svg)](https://github.com/cicirello/user-statistician)
 -->
 
 <br>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=david-kariuki&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
 <br>
-
 
 ***
 
@@ -115,3 +111,4 @@ Please click the red button below to nominate me for the Github Stars programme.
 
 
 <br>
+
