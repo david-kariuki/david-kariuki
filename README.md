@@ -4,7 +4,7 @@
 
 <br>
 
-### Oh Hi there 👋 I am DK, a Software Engineer and a huge fan of open source development.<br>
+### Oh Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am DK, a Software Engineer and a huge fan of open source development.<br>
 
 <br><br>1.  🧑 **PERSONA**<br>
 
