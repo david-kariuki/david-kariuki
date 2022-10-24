@@ -102,6 +102,11 @@ I am DK, a Software Engineer. I love open source.<br>
 
 <br>
 
+<figure><embed src="https://wakatime.com/share/@b8ede415-6acf-4bd7-af13-5e3ea5742c8a/9da959ba-708a-4a90-aa0b-671671495867.svg"></embed></figure>
+
+
+<br>
+
 ***
 
 <br>
