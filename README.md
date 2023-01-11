@@ -37,7 +37,8 @@ I am DK, a Software Engineer. I love open source.<br>
 |#|PROJECT NAME|PROJECT DESCRIPTION| STARS |
 |-|-|-|-|
 |1.|[Ace The Java Coding Interview](https://github.com/david-kariuki/AceTheJavaCodingInterview)|Solve problems that are commonly asked in Java coding interviews related to common data structures like arrays, linked lists, strings, stacks, and queues, etc.| ![](https://img.shields.io/github/stars/david-kariuki/AceTheJavaCodingInterview)
-|2.|[JUnit Testing](https://github.com/david-kariuki/JUnitTestingProject)|How to write unit tests with JUnit 5| ![](https://img.shields.io/github/stars/david-kariuki/JUnitTestingProject)
+|2.|[JUnit Testing](https://github.com/david-kariuki/JUnitTestingProject)|How to write Java unit tests with JUnit 5| ![](https://img.shields.io/github/stars/david-kariuki/JUnitTestingProject)
+|3.|[Java Collections](https://github.com/david-kariuki/JavaCollections)|Java Collections| ![](https://img.shields.io/github/stars/david-kariuki/JavaCollections)
 |||||
 
 <br><br>5.  ⌚ **FUTURE VENTURES**<br>
