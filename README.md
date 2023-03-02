@@ -91,6 +91,13 @@ I am DK, a Software Engineer. I love open source.<br>
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=david-kariuki&theme=light&hide_border=true&fire=red&sideNums=red)<br/>
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=david-kariuki&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&include_private=true)
 
+<br>
+
+<!--START_SECTION:SECTION_NAME-->
+<!--END_SECTION:SECTION_NAME-->
+
+<br>
+
 <!--
 <br>
 [![GitHub Activity](images/userstats.svg)](https://github.com/cicirello/user-statistician)
