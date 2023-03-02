@@ -14,10 +14,11 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
+          BLOCKS: ->
           TIME_RANGE: all_time
-          LANG_COUNT: 20
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
+          LANG_COUNT: 10
           # following flags are required, only if this is not on
           # profile readme, remove the leading `#` to use them
           #GH_TOKEN: ${{ secrets.GH_TOKEN }}
