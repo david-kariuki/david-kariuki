@@ -17,8 +17,10 @@ jobs:
           BLOCKS: ->
           TIME_RANGE: all_time
           SHOW_TIME: true
+          SHOW_TOTAL: true
           SHOW_MASKED_TIME: true
-          LANG_COUNT: 10
+          LANG_COUNT: 15
+          SECTION_NAME: waka
           # following flags are required, only if this is not on
           # profile readme, remove the leading `#` to use them
           #GH_TOKEN: ${{ secrets.GH_TOKEN }}
