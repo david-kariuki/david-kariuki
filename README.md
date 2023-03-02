@@ -93,8 +93,8 @@ I am DK, a Software Engineer. I love open source.<br>
 
 <br>
 
-<!--START_SECTION:SECTION_NAME-->
-<!--END_SECTION:SECTION_NAME-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br>
 
