@@ -31,7 +31,10 @@ I am DK, a Software Engineer. I love open source.<br>
 |  |  |  |  |
 | 4 | [vmware-host-modules-builder](https://github.com/linuxeuphony/vmware-host-modules-builder-cli) | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) (Debian, Arch) | The script downloads, builds and installs Vmware host modules for your Linux Vmware. | ![](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu%20bash&logoColor=white) | ![](https://img.shields.io/github/stars/linuxeuphony/vmware-host-modules-builder-cli)
 | 5 | [desktop-environment-tool-cli](https://github.com/linuxeuphony/linux-desktop-environment-tool-cli) | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) (Debian) | A cli tool that helps Debian users install/uninstall various desktop environments from a list of options. It also runs some debug codes to fix broken app installs, remove incomplete and useless application dependencies, clean app stream cache, update and upgrade software repos in your linux system.  | ![](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu%20bash&logoColor=white) | ![](https://img.shields.io/github/stars/linuxeuphony/linux-desktop-environment-tool-cli)
+| 6 |[delete-old-git-branches](https://github.com/LinuxEuphony/delete-old-git-branches) | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | This is an automated bash script to delete git branches older than some specific time period. The default set time is 4 months, but you can pass the period in months as a first parameter while running the shell script | ![](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu%20bash&logoColor=white) | ![](https://img.shields.io/github/stars/linuxeuphony/delete-old-git-branches) |
 |  | |  |  |  | |
+   
+   
    
 <br><br>4.  📙 **Documented Learning Projects**
 |#|PROJECT NAME|PROJECT DESCRIPTION| STARS |
