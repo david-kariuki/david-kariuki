@@ -11,7 +11,7 @@ I am DK, a Software Engineer. I love open source.
 
 <br><br> 2.  🧑‍💼 **DEVELOPMENT STACK**<br>
 
-      i. Mobile application development: - Android - Java, Kotlin.
+      i. Mobile application development: - Android - Java, Kotlin, Apache Cordova.
      ii. Web Development: - HTML CSS, Markdown, JavaScript, JQuery, ThymeLeaf.
      ii. Backend Development: - SpringBoot, PHP.
     iii. Shell Scripting: - Bash.
