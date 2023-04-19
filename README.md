@@ -3,12 +3,11 @@
 <!--[![Profile Views](https://komarev.com/ghpvc/?username=david-kariuki&color=red)](#) -->
 
 ### Oh Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-I am DK, a Software Engineer. I love open source.<br>
+I am DK, a Software Engineer. I love open source.
 
-<br><br>1.  🧑 **PERSONA**<br>
-
-&emsp;&emsp;&emsp;**Nationality**&emsp;&emsp;&nbsp;: Kenya 🇰🇪<br>
-&emsp;&emsp;&emsp;**Physique**&emsp;&emsp;&emsp;: “Don’t forget you are what you eat,” said one person. “Then I should eat a skinny person.” said my sister.<br>
+<!--<br><br>1.  🧑 **PERSONA**<br>
+ &emsp;&emsp;&emsp;**Physique**&emsp;&emsp;&emsp;: “Don’t forget you are what you eat,” said one person. “Then I should eat a skinny person.” said my sister.<br>
+-->
 
 <br><br> 2.  🧑‍💼 **DEVELOPMENT STACK**<br>
 
