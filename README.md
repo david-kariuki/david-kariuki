@@ -41,7 +41,7 @@ I am DK, a Software Engineer. I love open source.
 |||||||
    
    
-<br><br>5.  📙 **Documented Learning Projects**
+<br><br>5.  📙 **Shortlisted Learning Projects**
 |#|PROJECT NAME|PROJECT DESCRIPTION| STARS |
 |-|-|-|-|
 |1.|[Ace The Java Coding Interview](https://github.com/david-kariuki/AceTheJavaCodingInterview)|Solve problems that are commonly asked in Java coding interviews related to common data structures like arrays, linked lists, strings, stacks, and queues, etc.| ![](https://img.shields.io/github/stars/david-kariuki/AceTheJavaCodingInterview)
