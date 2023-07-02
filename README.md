@@ -84,8 +84,9 @@ I am DK, a Software Engineer. I love open source.
 &emsp;&emsp;&emsp;&emsp;The link shows an overview to all my achievements and contributions on the stack exchange network. This includes but not limited to StackOverflow, Unix & Linux, Information Security, ServerFault. 
 
  <br><br>
+Daily Dev Card
 
-<a href="https://app.daily.dev/david_kariuki"><img src="https://api.daily.dev/devcards/6d64aeb67fe64c01a9a3b36777365929.png?r=yqx" width="400" alt="David Kariuki's Dev Card"/></a>
+<a href="https://app.daily.dev/david_kariuki"><img src="https://api.daily.dev/devcards/6d64aeb67fe64c01a9a3b36777365929.png?r=vqd" width="400" alt="David Kariuki's Dev Card"/></a>
  
 <br><br> 
 
