@@ -64,18 +64,14 @@ I am DK, a Software Engineer. I love open source.
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkaris.k@gmail.com) &emsp;[![LinkedIn - David kariuki](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidkariuki)&emsp;
 [![Twitter - @davidkariuki_](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davidkariuki_)&emsp;[![Instagram - @davi_kariuki](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/david_kariuki)&emsp;[![Facebook - David Kariuki](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dk.davidkariuki)&emsp;
 
-<br><br>8. 📖 **ARTICLES AND POSTS**<br>
-&emsp;&emsp;&emsp;
-[![Medium Articles](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@davidkariuki) &emsp;[![Quoras Contribution](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/David-Kariuki-7/) &emsp;[![Dev.to Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/david_kariuki)
 
-
-<br><br>9. 🌐 **STACK EXCHANGE PROFILES** (Achievements and Contributions)<br><br>
+<br><br>8. 🌐 **STACK EXCHANGE PROFILES** (Achievements and Contributions)<br><br>
 &emsp;&emsp;&emsp;&emsp;Click the widget below for more<br>
 &emsp;&emsp;&emsp;&emsp;<a href="https://stackexchange.com/users/7822670/david-kariuki?tab=accounts"><img src="https://stackexchange.com/users/flair/7822670.png" width="208" height="58" alt="profile for David Kariuki on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for David Kariuki on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a><br><br>
 &emsp;&emsp;&emsp;&emsp;The link shows an overview to all my achievements and contributions on the stack exchange network. This includes but not limited to StackOverflow, Unix & Linux, Information Security, ServerFault. 
 
  <br><br>
- <br><br>10. 📖 **Daily Dev Card**<br>
+ <br><br>9. 📖 **Daily Dev Card**<br>
 
 <a href="https://app.daily.dev/david_kariuki"><img src="https://api.daily.dev/devcards/6d64aeb67fe64c01a9a3b36777365929.png?r=vqd" width="400" alt="David Kariuki's Dev Card"/></a>
  
