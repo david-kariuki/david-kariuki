@@ -44,10 +44,11 @@ I am DK, a Software Engineer. I love open source.
 <br><br>📙 **Shortlisted Learning Projects**
 |#|PROJECT NAME|PROJECT DESCRIPTION| STARS |
 |-|-|-|-|
-|1.|[Ace The Java Coding Interview](https://github.com/david-kariuki/AceTheJavaCodingInterview)|Solve problems that are commonly asked in Java coding interviews related to common data structures like arrays, linked lists, strings, stacks, and queues, etc.| ![](https://img.shields.io/github/stars/david-kariuki/AceTheJavaCodingInterview)
-|2.|[Leetcode Practice](https://github.com/david-kariuki/leetcode-practice)|Repository containing problems I have practiced on leetcode.| ![](https://img.shields.io/github/stars/david-kariuki/leetcode-practice)
-|3.|[JUnit Testing](https://github.com/david-kariuki/JUnitTestingProject)|How to write Java unit tests with JUnit 5| ![](https://img.shields.io/github/stars/david-kariuki/JUnitTestingProject)
-|4.|[Java Collections](https://github.com/david-kariuki/JavaCollections)|Java Collections| ![](https://img.shields.io/github/stars/david-kariuki/JavaCollections)
+|1.|[Mastering Data Structures and Algorithms](https://github.com/david-kariuki/mastering-data-structures-and-algorithms)| Mastering data structures and algorithms using different sources and documenting my learning journey.| ![](https://img.shields.io/github/stars/david-kariuki/mastering-data-structures-and-algorithms)
+|2.|[Ace The Java Coding Interview](https://github.com/david-kariuki/AceTheJavaCodingInterview)|Solve problems that are commonly asked in Java coding interviews related to common data structures like arrays, linked lists, strings, stacks, and queues, etc.| ![](https://img.shields.io/github/stars/david-kariuki/AceTheJavaCodingInterview)
+|3.|[Leetcode Practice](https://github.com/david-kariuki/leetcode-practice)|Repository containing problems I have practiced on leetcode.| ![](https://img.shields.io/github/stars/david-kariuki/leetcode-practice)
+|4.|[JUnit Testing](https://github.com/david-kariuki/JUnitTestingProject)|How to write Java unit tests with JUnit 5| ![](https://img.shields.io/github/stars/david-kariuki/JUnitTestingProject)
+|5.|[Java Collections](https://github.com/david-kariuki/JavaCollections)|Java Collections| ![](https://img.shields.io/github/stars/david-kariuki/JavaCollections)
 |||||
 
 
