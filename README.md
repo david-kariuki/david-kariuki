@@ -342,7 +342,7 @@ I also share, read, and participate in technical content through developer commu
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=david-kariuki&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-trophies.vercel.app/?username=david-kariuki&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6)](https://github.com/lucthienphong1120/github-trophies)
 
 </div>
 
