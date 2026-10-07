@@ -269,6 +269,12 @@ Some of my longer-running learning repositories include:
 
 </div>
 
+<br>
+
+## Coding Patterns
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br>
 
