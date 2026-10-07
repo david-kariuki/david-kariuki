@@ -274,6 +274,19 @@ Some of my longer-running learning repositories include:
 ## Coding Patterns
 
 <!--START_SECTION:waka-->
+**I Mostly Code in Java** 
+
+```text
+Java                     13 repos            ████████████████░░░░░░░░░   65.00 % 
+Shell                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+```
+
+
+
+
 <!--END_SECTION:waka-->
 
 <br>
