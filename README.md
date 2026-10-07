@@ -274,9 +274,11 @@ Some of my longer-running learning repositories include:
 
 # Community & Technical Writing
 
-Engineering is not only about building software.
+Engineering is not only about building software. I also value sharing knowledge, documenting what I learn, answering technical questions, and contributing back to the wider engineering community.
 
-I also value sharing knowledge, documenting what I learn, answering technical questions, and contributing back to the wider engineering community.
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## Stack Exchange
 
@@ -287,7 +289,7 @@ My Stack Exchange activity spans technical communities including:
 - Information Security
 - Server Fault
 
-<div align="center">
+<br>
 
 <a href="https://stackexchange.com/users/7822670/david-kariuki?tab=accounts">
     <img
@@ -298,25 +300,19 @@ My Stack Exchange activity spans technical communities including:
     />
 </a>
 
-</div>
-
-<br>
-
-<div align="left">
+<br><br>
 
 [View my Stack Exchange contributions →](https://stackexchange.com/users/7822670/david-kariuki?tab=accounts)
 
-</div>
+</td>
 
----
-
-<br>
+<td width="50%" valign="top">
 
 ## Articles & Developer Community
 
 I also share, read, and participate in technical content through developer communities.
 
-<div align="left">
+<br>
 
 <a href="https://app.daily.dev/david_kariuki">
     <img
@@ -326,15 +322,13 @@ I also share, read, and participate in technical content through developer commu
     />
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 [View my Daily.dev profile →](https://app.daily.dev/david_kariuki)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
