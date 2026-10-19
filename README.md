@@ -279,32 +279,32 @@ Some of my longer-running learning repositories include:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                686 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-🌆 Daytime                1206 commits        ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-🌃 Evening                1414 commits        ███████░░░░░░░░░░░░░░░░░░   27.44 % 
-🌙 Night                  1848 commits        █████████░░░░░░░░░░░░░░░░   35.86 % 
+🌞 Morning                686 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+🌆 Daytime                1206 commits        ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+🌃 Evening                1420 commits        ███████░░░░░░░░░░░░░░░░░░   27.52 % 
+🌙 Night                  1848 commits        █████████░░░░░░░░░░░░░░░░   35.81 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   887 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Tuesday                  542 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Wednesday                511 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Thursday                 823 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Friday                   882 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Saturday                 597 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Sunday                   912 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Monday                   887 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Tuesday                  542 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Wednesday                511 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Thursday                 823 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Friday                   882 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Saturday                 597 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Sunday                   918 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
 ```
 
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     13 repos            ████████████████░░░░░░░░░   65.00 % 
-Shell                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Java                     13 repos            ███████████████░░░░░░░░░░   61.90 % 
+Shell                    4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
