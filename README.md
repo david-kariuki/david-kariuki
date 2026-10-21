@@ -276,27 +276,6 @@ Some of my longer-running learning repositories include:
 ## Coding Patterns
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                687 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-🌆 Daytime                1206 commits        ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
-🌃 Evening                1420 commits        ███████░░░░░░░░░░░░░░░░░░   27.51 % 
-🌙 Night                  1849 commits        █████████░░░░░░░░░░░░░░░░   35.82 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   888 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Tuesday                  543 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Wednesday                511 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-Thursday                 823 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Friday                   882 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Saturday                 597 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Sunday                   918 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-```
-
-
 **I Mostly Code in Java** 
 
 ```text
