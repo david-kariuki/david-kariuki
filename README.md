@@ -279,21 +279,21 @@ Some of my longer-running learning repositories include:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                688 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-🌆 Daytime                1210 commits        ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-🌃 Evening                1422 commits        ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-🌙 Night                  1851 commits        █████████░░░░░░░░░░░░░░░░   35.80 % 
+🌞 Morning                688 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+🌆 Daytime                1210 commits        ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+🌃 Evening                1425 commits        ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+🌙 Night                  1852 commits        █████████░░░░░░░░░░░░░░░░   35.79 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   888 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Tuesday                  543 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-Wednesday                512 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-Thursday                 825 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Friday                   887 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Saturday                 598 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Sunday                   918 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Monday                   888 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Tuesday                  543 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Wednesday                512 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Thursday                 825 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Friday                   887 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Saturday                 601 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Sunday                   919 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
 ```
 
 
